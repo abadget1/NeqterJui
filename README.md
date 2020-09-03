@@ -1,3 +1,5 @@
 # NeqterJui
 
-Repository for an ecommerce website.
+Source code for NeqterJui.com
+
+Front-end is developed in React.js
